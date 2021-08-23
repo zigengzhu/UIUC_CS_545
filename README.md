@@ -1,1 +1,1 @@
-# UIUC_CS_545
+# CS 545 Machine Learning for Signals
